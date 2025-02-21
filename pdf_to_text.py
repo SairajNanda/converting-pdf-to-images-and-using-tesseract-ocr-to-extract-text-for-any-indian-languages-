@@ -13,7 +13,7 @@ def convert_pdf(pdf_path,save_directory,res=400):
 convert_pdf('/home/speech/Desktop/bodo2.pdf', '/home/speech/Desktop/bodo_scraped/bodopdf2image')
 
 
-# John Wesly G, Thu 14:04
+
 # sudo apt install tesseract-ocr
 # sudo apt-get install tesseract-ocr*
 # tesseract ~/path/image.png - -l ben
